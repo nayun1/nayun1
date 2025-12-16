@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+  <a href="https://wakatime.com/@nayun1">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=nayun1&layout=compact&theme=radical" />
+  </a>
+</div>
