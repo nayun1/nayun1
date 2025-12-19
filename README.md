@@ -1,4 +1,5 @@
-## 안녕하세요 김나윤입니다
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=150&section=header&text=Kim%20Nayun&fontSize=45&fontColor=5C4A3A&animation=fadeIn&fontAlignY=30)
+
 ## 🛠 Tech Stack
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -27,7 +28,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayun1&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayun1&layout=compact&theme=radical)
-
-
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=150&section=header&text=Kim%20Nayun&fontSize=45&fontColor=5C4A3A&animation=fadeIn&fontAlignY=30)
