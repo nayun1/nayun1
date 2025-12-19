@@ -1,5 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=150&section=header&text=김나윤&fontSize=45&fontColor=3D2F24&animation=fadeIn&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=150&section=header&text=Kim%20Nayun&fontSize=45&fontColor=3D2F24&animation=fadeIn&fontAlignY=30)
+
 ## 기술 스택
+
 ### Languages
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
