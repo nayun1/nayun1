@@ -31,6 +31,4 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=200&section=header&text=Kim%20Nayun&fontSize=70&animation=fadeIn&fontAlignY=35)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=150&section=header&text=Kim%20Nayun&fontSize=50&animation=fadeIn&fontAlignY=30)
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=120&section=header&text=Kim%20Nayun&fontSize=40&animation=fadeIn&fontAlignY=28)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=150&section=header&text=Kim%20Nayun&fontSize=45&fontColor=8B7355&animation=fadeIn&fontAlignY=30)
