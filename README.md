@@ -30,4 +30,4 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Nayun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=300&section=header&text=Kim%20Nayun&fontSize=90&animation=fadeIn&fontAlignY=38)
