@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=150&section=header&text=Kim%20Nayun&fontSize=45&fontColor=3D2F24&animation=fadeIn&fontAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:E3D5CA,100:D5BDAF&height=130&section=header&text=Kim%20Nayun&fontSize=40&fontColor=3D2F24&animation=fadeIn&fontAlignY=28)
 
 ## 기술 스택
 
