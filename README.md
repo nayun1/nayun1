@@ -25,3 +25,10 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayun1&show_icons=true&theme=radical)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayun1&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayun1&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nayun1&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayun1&layout=compact&theme=radical&langs_count=8)
+[![nayun1's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nayun1&theme=radical)](https://github.com/nayun1)
