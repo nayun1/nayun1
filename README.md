@@ -25,7 +25,4 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayun1&show_icons=true&theme=radical)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nayun1&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayun1&layout=compact&theme=radical)
