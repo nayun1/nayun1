@@ -31,19 +31,3 @@
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Kim%20Nayun&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=51&descAlign=50)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hello!+I'm+Nayun+Kim;Backend+Developer;Always+learning+new+things!)](https://git.io/typing-svg)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=nayun1&theme=radical&row=1&column=7)
-
-![snake gif](https://github.com/nayun1/nayun1/blob/output/github-contribution-grid-snake.svg)
-
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnayun1&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-
-![3D Contribution](https://github-readme-activity-graph.vercel.app/graph?username=nayun1&theme=react-dark&area=true&hide_border=true)
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Blogger&logoColor=white)](your-blog-url)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white)](your-linkedin)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nayun1&repo=yar&theme=radical)](https://github.com/nayun1/yar)
